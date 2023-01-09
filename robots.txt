@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mimpi-depresi.github.io/dep-2/sitemap.xml
